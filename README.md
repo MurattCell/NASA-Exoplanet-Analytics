@@ -70,6 +70,13 @@ Bu dashboard sadece statik verileri göstermez, aynı zamanda **canlı astrofizi
 
 <img width="800" height="800" alt="TRAPPIST-1" src="https://github.com/user-attachments/assets/99db2532-ace9-4f34-9efb-ca90edefc0f6" /> ![stars](https://github.com/user-attachments/assets/f50bad6e-7a3d-4b10-a333-5aa182401d19)
 
+## 📂 Veri Seti (Data Source)
+
+Bu projede kullanılan veriler, Porto Riko Üniversitesi (UPR) Arecibo'daki **Gezegensel Yaşanabilirlik Laboratuvarı (PHL)** tarafından sağlanan *Habitable Worlds Catalog (HWC)* verisetinden alınmıştır.
+
+* **Kaynak:** [PHL @ UPR Arecibo - HWC Data](https://phl.upr.edu/hwc/data)
+* **İçerik:** Potansiyel olarak yaşanabilir ötegezegenlerin listesi ve özellikleri.
+
 ## 📦 Kurulum
 
 Projeyi yerel makinenizde çalıştırmak için:
